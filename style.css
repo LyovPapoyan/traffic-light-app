@@ -100,10 +100,9 @@
     left: 20px;
 }
 
-.zone-2,
-.zone-1,
-.zone-3 {
-    margin-top: 15px;
+
+.start {
+    margin-top: 10px;
     width: 80px;
     height: 45px;
     background-color: blue;
